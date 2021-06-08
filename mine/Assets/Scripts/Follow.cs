@@ -16,7 +16,7 @@ public class Follow : MonoBehaviour
             Debug.Log("!");
             //while(true)
             //{
-                this.transform.Translate(new Vector3(0, 0, 0.007f));
+                this.transform.Translate(new Vector3(0, 0, 0.028f));
             //}
         }    //transform.Translate(0, 0.1f, 0);
         else
@@ -26,7 +26,7 @@ public class Follow : MonoBehaviour
             if (transform.position.z - target.position.z > offset.z || transform.position.z - target2.position.z > offset.z)
             {
                 Debug.Log("hi");
-                this.transform.Translate(new Vector3(0, 0, 0.007f));
+                this.transform.Translate(new Vector3(0, 0, 0.028f));
             }
             else
             {

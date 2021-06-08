@@ -504,7 +504,7 @@ MonoBehaviour:
   velocity: 0
   default_velocity: 0
   accelaration: 0
-  default_direction: {x: 0.8, y: 0, z: 0}
+  default_direction: {x: 3.2, y: 0, z: 0}
 --- !u!1 &1559099344501894
 GameObject:
   m_ObjectHideFlags: 0

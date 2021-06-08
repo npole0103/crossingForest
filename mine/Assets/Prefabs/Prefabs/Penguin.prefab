@@ -233,7 +233,7 @@ MonoBehaviour:
   velocity: 0
   default_velocity: 0
   accelaration: 0
-  default_direction: {x: 0.4, y: 0, z: 0}
+  default_direction: {x: 1.6, y: 0, z: 0}
 --- !u!65 &65712882847760486
 BoxCollider:
   m_ObjectHideFlags: 0

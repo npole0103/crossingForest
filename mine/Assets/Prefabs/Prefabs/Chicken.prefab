@@ -393,7 +393,7 @@ MonoBehaviour:
   velocity: 0
   default_velocity: 0
   accelaration: 0
-  default_direction: {x: 0.35, y: 0, z: 0}
+  default_direction: {x: 1.4, y: 0, z: 0}
 --- !u!54 &54011750179816588
 Rigidbody:
   m_ObjectHideFlags: 0
